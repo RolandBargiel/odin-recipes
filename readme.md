@@ -1,1 +1,1 @@
-"Write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it."
+This brief project enabled me to familiarize myself with ordered and unordered lists, creating relative links to other pages within my own filesystem, and adding images to pages. Excited to come back after future lessons to polish it up with some CSS. Cheers.
