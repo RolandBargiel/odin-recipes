@@ -1,0 +1,26 @@
+* {
+  font-family: 'Trebuchet MS', sans-serif;
+}
+
+.sitetitle {
+  text-align: center;
+  background-color: rgb(197, 197, 197);
+  padding: 20px 0 20px 0;
+  font-size: 36px;
+}
+
+.pagetitle {
+  text-align: center;
+}
+
+.mainrecipelist {
+  text-align: center;
+  list-style-type: none;
+  padding-left: 0px;
+  font-size: 24px;
+  line-height: 40px;
+}
+
+.homepagelink {
+  text-align: center;
+}
