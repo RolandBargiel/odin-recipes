@@ -7,6 +7,7 @@
   background-color: rgb(197, 197, 197);
   padding: 20px 0 20px 0;
   font-size: 36px;
+  font-weight: 900;
 }
 
 .pagetitle {
@@ -24,3 +25,4 @@
 .homepagelink {
   text-align: center;
 }
+
